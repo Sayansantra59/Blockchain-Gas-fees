@@ -10,8 +10,8 @@
 
 
 ### 2. Gas price trend
-Insight: Gas fees remain generally low with occasional short-term spikes rather than sustained increases.
+-Insight: Gas fees remain generally low with occasional short-term spikes rather than sustained increases.
 
-Why it matters: This indicates that Ethereum network demand is stable, with temporary congestion instead of continuous heavy usage.
+-Why it matters: This indicates that Ethereum network demand is stable, with temporary congestion instead of continuous heavy usage.
 
-Takeaway: Lower and stable gas fees improve accessibility for users, but sudden spikes still create cost uncertainty.
+-Takeaway: Lower and stable gas fees improve accessibility for users, but sudden spikes still create cost uncertainty.
