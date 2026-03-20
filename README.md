@@ -1,35 +1,28 @@
 # Dashboard overview
 
 ### 1. Transactions vs Gas price
--Insight: Gas prices show sharp spikes despite relatively stable transaction counts, indicating periods of temporary network congestion rather than sustained demand growth.
+-Insight: Short-term bursts in transaction volume still trigger immediate spikes in gas prices.
 
--Why it matters: This suggests gas fees are being driven more by short-term activity bursts (e.g., trading, NFT minting) than consistent usage increases.
+-Why it matters: Even with better scaling, the network still uses an auction model. When everyone tries to transact at once, it still gets expensive.
 
--Takeaway: Weak correlation between transactions and gas implies inefficiencies in network capacity, reinforcing the need for scaling solutions like Layer 2 during peak demand.
-
+-Takeaway: For operations and developers, timing is key—scheduling non-urgent tasks for "quiet" periods remains the best way to save money.
 
 
 ### 2. Gas price trend
--Insight: Gas fees remain generally low with occasional short-term spikes rather than sustained increases.
+-Insight: Fees have remained low and stable (10–20 Gwei) despite the network handling more traffic than ever.
 
--Why it matters: This indicates that Ethereum network demand is stable, with temporary congestion instead of continuous heavy usage.
+-Why it matters: This is the "Scalability Paradox"—it proves that Layer 2 solutions and data upgrades are successfully keeping costs down.
 
--Takeaway: Lower and stable gas fees improve accessibility for users, but sudden spikes still create cost uncertainty.
-
+-Takeaway: The network is becoming more affordable for users even as it grows in size.
 
 
 ### 3. Daily gas used
--Insight: Daily gas usage remains relatively stable with occasional spikes.
+-Insight: A massive jump in late 2025 indicates a major network upgrade that permanently increased how much data the chain can handle.
 
--Why it matters: This indicates consistent network activity, with short bursts of high computation rather than continuous heavy load.
+-Why it matters: This isn't just a temporary spike; it’s a "regime shift" where the network is now processing record-breaking volume (200b+ units).
 
--Takeaway: Ethereum usage is steady, but periodic spikes suggest moments of intensive smart contract activity (e.g., DeFi or NFT interactions).
-
+-Takeaway: The network has entered a high-capacity era, capable of supporting much larger applications than before.
 
 
 ### 4. Top gas consuming protocols
--Insight: A few protocols dominate the majority of gas consumption.
-
--Why it matters: This shows that network usage is concentrated in specific applications rather than evenly distributed.
-
--Takeaway: Ethereum demand is largely driven by major DeFi/NFT protocols, meaning network congestion often depends on activity within these key platforms.
+Insight: A single "Whale" contract (starting with 00006c38...) is responsible for nearly double the gas usage of the next highest protocol.
