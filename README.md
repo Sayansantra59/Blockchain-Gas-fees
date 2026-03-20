@@ -25,4 +25,8 @@
 
 
 ### 4. Top gas consuming protocols
-Insight: A single "Whale" contract (starting with 00006c38...) is responsible for nearly double the gas usage of the next highest protocol.
+-Insight: A single "Whale" contract (starting with 00006c38...) is responsible for nearly double the gas usage of the next highest protocol.
+
+-Why it matters: Network activity is currently very concentrated. The health and volume of the ecosystem are heavily tied to this one specific project.
+
+-Takeaway: If this dominant contract (likely a major marketplace or DEX) experiences a bug or a dip in users, the whole network will see a massive drop in activity.
